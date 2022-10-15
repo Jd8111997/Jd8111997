@@ -14,4 +14,3 @@ I'm a AI researcher and Machine Learning Engineer, I love solving real world pro
 * [Kaggle](https://www.kaggle.com/jd81197)
 * [Github](https://www.github.com/Jd8111997)
 * [Resume](https://github.com/Jd8111997/Jd8111997/blob/main/assets/Resume.pdf)
-* [Email](mailto:/jaydeept126@gmail.com)
