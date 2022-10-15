@@ -1,6 +1,6 @@
 ### 👋Hi, I'm Jaydeep Chauhan
 
-I'm a AI researcher and Machine Learning Engineer, I love solving real world problems using AI(actively participating in kaggle competitions) and I'm very passionate about understanding and visualizing ML algorithms. My long term goal is to create ML models which are robust, could able to learn from a very few samples, generalize under distribution shifts and can do high level reasoning about the world.
+I'm a AI researcher and Machine Learning Engineer, I love solving real world problems using AI(actively participating in kaggle competitions) and I'm very passionate about understanding and visualizing ML algorithms. My long term goal is to create ML models which are robust, could able to learn from a very few samples, generalize beyond iid settings and can do high level reasoning about the world.
 
 - 🔭 I’m currently doing a Masters Thesis on generalization under distributional shifts, disentanglement and causality in deep learning.
 - 🌱 I’m currently pursuing Masters in Computer Science from Indiana University Bloomington.
