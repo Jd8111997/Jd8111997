@@ -10,6 +10,7 @@ I'm a AI researcher and Machine Learning Engineer, I love solving real world pro
 - 😄 Pronouns: He/him/his.
 
 ### Connect with me 
-* [[LinkedIn](https://www.linkedin.com/in/jaydeep-chauhan-57ab3171/)
+* [LinkedIn](https://www.linkedin.com/in/jaydeep-chauhan-57ab3171/)
 * [Kaggle](https://www.kaggle.com/jd81197)
 * [Github](https://www.github.com/Jd8111997)
+* [Resume]()
