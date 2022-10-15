@@ -13,4 +13,4 @@ I'm a AI researcher and Machine Learning Engineer, I love solving real world pro
 * [LinkedIn](https://www.linkedin.com/in/jaydeep-chauhan-57ab3171/)
 * [Kaggle](https://www.kaggle.com/jd81197)
 * [Github](https://www.github.com/Jd8111997)
-* [Resume]()
+* [Resume](https://github.com/Jd8111997/Jd8111997/blob/main/assets/Resume.pdf)
